@@ -113,7 +113,15 @@
 				"altAnim": false
 			},
 			{
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						14918.918918918916,
+						-1,
+						"Change Mania",
+						"5",
+						""
+					]
+				],
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"mustHitSection": false,
@@ -125,18 +133,11 @@
 			{
 				"sectionNotes": [
 					[
-						15567.567567567565,
-						-1,
-						"Change Scroll Speed",
-						"3.1",
-						"1"
-					],
-					[
 						15567,
 						-1,
-						"Change Mania",
-						"5",
-						""
+						"Change Scroll Speed",
+						"0.3",
+						"8"
 					]
 				],
 				"lengthInSteps": 16,
@@ -429,11 +430,61 @@
 				"bpm": 0,
 				"changeBPM": false,
 				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
 			}
 		],
 		"bpm": 185,
 		"needsVoices": true,
-		"speed": 3.6000000000000023,
+		"speed": 3.0000000000000018,
 		"player1": "bf",
 		"player2": "dad",
 		"player3": "gf",
