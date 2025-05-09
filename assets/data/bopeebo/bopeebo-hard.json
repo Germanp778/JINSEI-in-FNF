@@ -1258,12 +1258,32 @@
 						"Add Camera Zoom",
 						"0.0075",
 						"0.015"
+					],
+					[
+						20215.454891511232,
+						1,
+						0
+					],
+					[
+						20373.905595736585,
+						0,
+						0
+					],
+					[
+						20426.722497145034,
+						2,
+						0
+					],
+					[
+						20585.173201370388,
+						2,
+						0
 					]
 				]
 			},
 			{
 				"lengthInSteps": 16,
-				"mustHitSection": false,
+				"mustHitSection": true,
 				"sectionNotes": [
 					[
 						20637.99010277884,
@@ -1292,6 +1312,11 @@
 						"Add Camera Zoom",
 						"0.0075",
 						"0.015"
+					],
+					[
+						20637.99010277884,
+						5,
+						158.45070422535213
 					]
 				]
 			},
@@ -3128,6 +3153,16 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 185,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
 			},
