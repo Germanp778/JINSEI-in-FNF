@@ -2452,6 +2452,16 @@
 				"bpm": 0,
 				"changeBPM": false,
 				"altAnim": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false,
+				"gfSection": false,
+				"bpm": 0,
+				"changeBPM": false,
+				"altAnim": false
 			}
 		],
 		"bpm": 185,
