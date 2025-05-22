@@ -2181,7 +2181,7 @@
 						44462.12409592691,
 						-1,
 						"Change Scroll Speed",
-						"1",
+						"0.9",
 						"0"
 					]
 				],
@@ -3153,6 +3153,16 @@
 						0
 					]
 				],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 185,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"altAnim": false
 			},
